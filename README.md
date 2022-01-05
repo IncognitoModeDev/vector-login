@@ -1,4 +1,4 @@
 # vector-login
 The Authentication System for Vector
 
-nuffin here lol
+Now used to highlight cool people
